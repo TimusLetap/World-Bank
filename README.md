@@ -1,18 +1,4 @@
 # World-Bank
 JSON Project
-This repo contains code providing solution for below queries using the World Bank projects dataset ('dataset/world_bank_projects.json')
 
-Find the 10 countries with most projects
-Find the top 10 major project themes (using column 'mjtheme_namecode')
-In point 2 above, there are some entries that have only the code and the name is missing. Create a dataframe with the missing names filled in.
-This code is written in Python & Jupyter and covers below key concepts
-
-•	Reading and manipulating JSON data
-
-•	Data wrangling & cleaning
-
-•	Flattening JSON structure
-
-•	Usage of json_normalize
-
-•	Use of Pandas Libraries and Function
+This is an anlysis of a World Bank dataset to understand and determine global banking data and impacts observed. Using these observations and techniques we will attempt to relate the needs of World Bank and clients. We will use data science techniques to make advanced observations. 
